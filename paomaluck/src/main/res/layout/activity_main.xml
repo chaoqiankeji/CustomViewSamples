@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <juice.paomaluck.AwardsPlateView
+        android:id="@+id/luck"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+    </juice.paomaluck.AwardsPlateView>
+    <ImageView
+        android:id="@+id/iv"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:src="@drawable/bg_lucky_monkey_item7"/>
+
+
+</RelativeLayout>
+

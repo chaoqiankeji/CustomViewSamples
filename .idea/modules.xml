@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circleprogressview/circleprogressview.iml" filepath="$PROJECT_DIR$/circleprogressview/circleprogressview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/custom_view.iml" filepath="$PROJECT_DIR$/custom_view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paomadeng/paomadeng.iml" filepath="$PROJECT_DIR$/paomadeng/paomadeng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paomaluck/paomaluck.iml" filepath="$PROJECT_DIR$/paomaluck/paomaluck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pingtugame/pingtugame.iml" filepath="$PROJECT_DIR$/pingtugame/pingtugame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progressbutton2/progressbutton2.iml" filepath="$PROJECT_DIR$/progressbutton2/progressbutton2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toggle/toggle.iml" filepath="$PROJECT_DIR$/toggle/toggle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zexianview/zexianview.iml" filepath="$PROJECT_DIR$/zexianview/zexianview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuanpanview/zuanpanview.iml" filepath="$PROJECT_DIR$/zuanpanview/zuanpanview.iml" />
+    </modules>
+  </component>
+</project>

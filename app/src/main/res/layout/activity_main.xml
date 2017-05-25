@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="juice.custom_view.MainActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:id="@+id/root"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+    <juice.zexianview.ZeXianView
+        android:id="@+id/zexian"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+    </juice.zexianview.ZeXianView>
+
+    <juice.zuanpanview.ZuanPan
+        android:id="@+id/zuanpan"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        </juice.zuanpanview.ZuanPan>
+    <juice.paomaluck.LuckyMonkeyPanelView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/luck">
+    </juice.paomaluck.LuckyMonkeyPanelView>
+    <ImageView
+        android:id="@+id/iv_start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:src="@drawable/start"/>
+
+</RelativeLayout>
